@@ -11,6 +11,8 @@
 - HTML5
 - CSS3
 - Javascript
+- Visual Studio Code
+- GitHub (by far one of the most un-intuative things I have ever seen)
 
 👯 I’m looking to collaborate on ...<br>
 🤔 I’m looking for help with ...<br>
